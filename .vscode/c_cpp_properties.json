@@ -8,10 +8,10 @@
             "includePath": [
                 "c:/Users/Torsten/Documents/PlatformIO/Projects/Wemos-D1-Sensor/include",
                 "c:/Users/Torsten/Documents/PlatformIO/Projects/Wemos-D1-Sensor/src",
+                "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif8266/libraries/Wire",
                 "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WebServer/src",
                 "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266mDNS/src",
                 "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFi/src",
-                "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif8266/libraries/Wire",
                 "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif8266/tools/sdk/include",
                 "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif8266/tools/sdk/libc/xtensa-lx106-elf/include",
                 "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif8266/cores/esp8266",
@@ -60,10 +60,10 @@
                 "path": [
                     "c:/Users/Torsten/Documents/PlatformIO/Projects/Wemos-D1-Sensor/include",
                     "c:/Users/Torsten/Documents/PlatformIO/Projects/Wemos-D1-Sensor/src",
+                    "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif8266/libraries/Wire",
                     "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WebServer/src",
                     "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266mDNS/src",
                     "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFi/src",
-                    "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif8266/libraries/Wire",
                     "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif8266/tools/sdk/include",
                     "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif8266/tools/sdk/libc/xtensa-lx106-elf/include",
                     "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif8266/cores/esp8266",
