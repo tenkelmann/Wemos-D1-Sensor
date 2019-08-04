@@ -3,6 +3,7 @@
 // inkl. Ultraschall, BME280, Wifi, MQTT, Webserver, Time
 // 5/2019 bahnuhr, Dieter Mueller
 // ************************************************************
+    #include <Arduino.h>
     #include <ESP8266WiFi.h>
     #include <WiFiClient.h>
     #include <ESP8266WebServer.h>
