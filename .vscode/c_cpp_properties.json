@@ -1,18 +1,17 @@
 {
     "configurations": [
         {
-            "name": "!!! WARNING !!! AUTO-GENERATED FILE, PLEASE DO NOT MODIFY IT AND USE https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags",
-            "cStandard": "c99",
-            "cppStandard": "c++17"
+            "name": "!!! WARNING !!! AUTO-GENERATED FILE, PLEASE DO NOT MODIFY IT AND USE https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags"
         },
         {
             "name": "Win32",
             "includePath": [
                 "c:/Users/Torsten/Documents/PlatformIO/Projects/Wemos-D1-Sensor/include",
                 "c:/Users/Torsten/Documents/PlatformIO/Projects/Wemos-D1-Sensor/src",
-                "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif8266/libraries/Wire",
                 "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266mDNS/src",
                 "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WebServer/src",
+                "c:/Users/Torsten/Documents/PlatformIO/Projects/Wemos-D1-Sensor/lib/cactus_io_BME280_I2C",
+                "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif8266/libraries/Wire",
                 "c:/Users/Torsten/Documents/PlatformIO/Projects/Wemos-D1-Sensor/.pio/libdeps/d1_mini/NTPtimeESP_ID2057",
                 "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFi/src",
                 "c:/Users/Torsten/Documents/PlatformIO/Projects/Wemos-D1-Sensor/.pio/libdeps/d1_mini/MQTT_ID617/src",
@@ -66,9 +65,10 @@
                 "path": [
                     "c:/Users/Torsten/Documents/PlatformIO/Projects/Wemos-D1-Sensor/include",
                     "c:/Users/Torsten/Documents/PlatformIO/Projects/Wemos-D1-Sensor/src",
-                    "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif8266/libraries/Wire",
                     "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266mDNS/src",
                     "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WebServer/src",
+                    "c:/Users/Torsten/Documents/PlatformIO/Projects/Wemos-D1-Sensor/lib/cactus_io_BME280_I2C",
+                    "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif8266/libraries/Wire",
                     "c:/Users/Torsten/Documents/PlatformIO/Projects/Wemos-D1-Sensor/.pio/libdeps/d1_mini/NTPtimeESP_ID2057",
                     "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFi/src",
                     "c:/Users/Torsten/Documents/PlatformIO/Projects/Wemos-D1-Sensor/.pio/libdeps/d1_mini/MQTT_ID617/src",
