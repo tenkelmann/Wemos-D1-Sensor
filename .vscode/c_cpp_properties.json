@@ -8,10 +8,10 @@
             "includePath": [
                 "c:/Users/Torsten/Documents/PlatformIO/Projects/Wemos-D1-Sensor/include",
                 "c:/Users/Torsten/Documents/PlatformIO/Projects/Wemos-D1-Sensor/src",
-                "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266mDNS/src",
-                "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WebServer/src",
                 "c:/Users/Torsten/Documents/PlatformIO/Projects/Wemos-D1-Sensor/lib/cactus_io_BME280_I2C",
                 "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif8266/libraries/Wire",
+                "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WebServer/src",
+                "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266mDNS/src",
                 "c:/Users/Torsten/Documents/PlatformIO/Projects/Wemos-D1-Sensor/.pio/libdeps/d1_mini/NTPtimeESP_ID2057",
                 "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFi/src",
                 "c:/Users/Torsten/Documents/PlatformIO/Projects/Wemos-D1-Sensor/.pio/libdeps/d1_mini/MQTT_ID617/src",
@@ -61,14 +61,13 @@
             ],
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
-                "databaseFilename": "${workspaceRoot}/.vscode/.browse.c_cpp.db",
                 "path": [
                     "c:/Users/Torsten/Documents/PlatformIO/Projects/Wemos-D1-Sensor/include",
                     "c:/Users/Torsten/Documents/PlatformIO/Projects/Wemos-D1-Sensor/src",
-                    "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266mDNS/src",
-                    "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WebServer/src",
                     "c:/Users/Torsten/Documents/PlatformIO/Projects/Wemos-D1-Sensor/lib/cactus_io_BME280_I2C",
                     "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif8266/libraries/Wire",
+                    "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WebServer/src",
+                    "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266mDNS/src",
                     "c:/Users/Torsten/Documents/PlatformIO/Projects/Wemos-D1-Sensor/.pio/libdeps/d1_mini/NTPtimeESP_ID2057",
                     "C:/Users/Torsten/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFi/src",
                     "c:/Users/Torsten/Documents/PlatformIO/Projects/Wemos-D1-Sensor/.pio/libdeps/d1_mini/MQTT_ID617/src",
@@ -118,7 +117,7 @@
                 ]
             },
             "defines": [
-                "PLATFORMIO=40000",
+                "PLATFORMIO=40003",
                 "ESP8266",
                 "ARDUINO_ARCH_ESP8266",
                 "ARDUINO_ESP8266_WEMOS_D1MINI",
